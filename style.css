@@ -1,0 +1,74 @@
+.main1 h1{
+    margin-left: 200px;
+    margin-top: -150px;
+    color: white;
+}
+.pa1 {
+   margin-top: 88px; 
+}
+.main1 h2{
+    margin-left: 80px;
+    color: white;
+    margin-top: -110px;
+}
+.pa2{
+    margin-left: 249px;
+    margin-top: -112px;
+    }
+    .main1 h3{
+        margin-left: 340px;
+        margin-top: -100px;
+        font-size: 30px;
+    }
+    .puji{
+        /* border: 2px solid red; */
+        height: 80px;
+        width: 8%;
+        margin-top: -150px;
+        background-color: black;
+    }
+    .puji p{
+        color: white;
+        font-size: 35px;
+        text-align: center;
+        margin-top: 20px;
+        padding: 20px;
+    }
+    .puji1{
+        margin-left: 498px;
+        margin-top: -500px;
+    }
+.puji3{
+       color: white;
+       font-size: 40px;
+       margin-left: 580px;
+       margin-top: -300px;
+}
+.class{
+    border: 2px solid transparent;
+    height: 178px;
+    width: 12%;
+    margin-left: 100px;
+    margin-top: 70px;
+    background-color: rgb(178, 138, 214);
+    
+}
+.a{
+    font-size: 25px;
+    margin-left: 50px;
+    margin-top: 80px;
+    
+}
+.class1{
+    border: 2px solid transparent;
+    height: 99px;
+    width: 7.7%;
+    margin-top: -104px;
+    background-color: bisque;
+}
+.b{
+    font-size: 25px;
+    margin-left: 22px;
+    margin-top: 35px;
+
+}
